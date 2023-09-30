@@ -1,0 +1,71 @@
+body{
+  font-family: arial;
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+.contorno{
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 25px;
+  margin-top: 50px;
+  margin-left: 280px;
+  margin-right: 280px;
+  margin-bottom: 100px
+
+}
+
+#lim{
+  width:17%
+}
+
+.logo,.prenota{
+  text-align: center;
+}
+.logo{
+  padding-top: 50px;
+}
+.text-logo{
+  color:rgba(0,221,0,255)
+}
+
+.prenota{
+  background-color: rgba(0,221,0,255);
+  padding: 10px;
+  margin-left: 70px;
+  margin-right: 70px;
+}
+
+.disponibili{
+  display: inline-block;
+  color: white;
+  margin-left: 50px;
+  margin-top: 50px;
+  padding-left: 30px;
+
+
+}
+
+.mezzo{
+  font-size: 27px;
+}
+
+#carica1,#carica2,#carica3{
+  color: black;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+#carica1{
+  background-color: rgba(0,221,0,255);
+  margin-right: 10%
+}
+
+#carica2{
+  background-color: yellow;
+  margin-right: 60%
+}
+
+#carica3{
+  background-color: red;
+  margin-right: 83%
+}
